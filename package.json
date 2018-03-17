@@ -1,0 +1,9 @@
+{
+  "name": "build-system",
+  "version": "1.0.0",
+  "description": "A test for the sort of build system that I intend to use.",
+  "main": "index.js",
+  "repository": "https://github.com/jojotastic777/build-system.git",
+  "author": "jojotastic777",
+  "license": "MIT"
+}
